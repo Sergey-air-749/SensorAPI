@@ -6,6 +6,10 @@
     font-family: 'Roboto';
 }
 
+.content {
+    padding: 20px;
+}
+
 .cordinats {
     display: flex;
     flex-direction: column;
